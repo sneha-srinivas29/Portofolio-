@@ -1,6 +1,6 @@
 # Sneha Srinivas — Portfolio
 
-**Live site**: [sneha-srinivas-portololio.netlify.app](https://sneha-srinivas-portololio.netlify.app)
+**Live site**: (https://portofolio-nine-gules.vercel.app/)
 
 A personal portfolio built to showcase my work as a Software Engineer and Full Stack Developer — featuring projects in React, TypeScript, Node.js, AI/ML, and Oracle NetSuite ERP development.
 
